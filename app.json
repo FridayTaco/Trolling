@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Quests",
-    "slug": "Quests",
+    "name": "Trolling",
+    "slug": "Trolling",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "Quests"
+  "name": "Trolling"
 }
